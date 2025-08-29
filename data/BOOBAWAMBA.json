@@ -1,1 +1,24 @@
-
+{
+    "id": 110816181,
+    "name": "BOOBAWAMBA",
+    "author": "Akunakunn",
+    "creators": ["Akunakunn", "ygg24", "TheLetterV"],
+    "verifier": "EastShark",
+    "verification": "https://www.youtube.com/watch?v=20fYiqLAo_E",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
