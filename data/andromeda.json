@@ -9,39 +9,9 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "w3rty",
-            "link": "https://www.youtube.com/watch?v=vI28nQFN9C4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Nickname09",
-            "link": "https://www.youtube.com/watch?v=70DK4hNHO4g",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "GuillExprex52",
-            "link": "https://www.youtube.com/watch?v=DyCMsf2OBR4",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "A6",
-            "link": "https://www.youtube.com/watch?v=yfXrv702bmU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Hqmy",
-            "link": "https://www.youtube.com/watch?v=rJFVdxUqSFo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Jerpaa",
-            "link": "https://www.youtube.com/watch?v=yoqY5Rzx9Us",
-            "percent": 100,
+            "user": "Sumbit your record here!",
+            "link": "https://www.youtube.com/watch?v=LxA4NJMiZ8o",
+            "percent": 0,
             "hz": 240
         }
     ]
