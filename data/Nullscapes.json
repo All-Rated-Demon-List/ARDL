@@ -9,16 +9,10 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Adri420",
-            "link": "https://www.youtube.com/watch?v=nknW-sWVvSY",
-            "percent": 78,
+            "user": "Sumbit your record here!",
+            "link": "https://www.youtube.com/watch?v=LxA4NJMiZ8o",
+            "percent": 0,
             "hz": 240
-        },
-        {
-            "user": "ralex",
-            "link": "https://www.youtube.com/watch?v=hRUAGZmDn1k",
-            "percent": 71,
-            "hz": 360
         }
     ]
 }
