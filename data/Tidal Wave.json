@@ -9,28 +9,10 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "TrickGMD",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "SerVax",
-            "link": "https://www.youtube.com/watch?v=alp09R3eG_4",
-            "percent": 100,
+            "user": "Sumbit your record here!",
+            "link": "https://www.youtube.com/watch?v=LxA4NJMiZ8o",
+            "percent": 0,
             "hz": 240
-        },
-        {
-            "user": "Taiago",
-            "link": "https://www.youtube.com/watch?v=wdK7JTw24l0",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
