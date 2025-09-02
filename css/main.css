@@ -96,3 +96,11 @@ input[type="checkbox"] {
     margin: 0;
 }
 
+.box {
+    background-color: skyblue;
+
+    height: 50px;
+
+    width: 50px
+}
+
