@@ -97,5 +97,9 @@ input[type="checkbox"] {
 }
 
 #TextSectionLabel {
-    border: 5px solid #e1cfb7;
+  text-align: center;
+  font-family: 'Times New Roman'; 
+  font-size: 50px;
+  color:#e1cfb7 ;
+  border: 5px solid #e1cfb7;
 }
