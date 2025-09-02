@@ -34,6 +34,7 @@
         <script type="module" src="/js/main.js"></script>
     </head>
     <body id="app">
+        <h2 id="Test">TEST</h2>
         <header :class="{ dark: store.dark }">
             <div class="logo">
                 <h2>ARDL</h2>
@@ -74,6 +75,6 @@
             </nav>
         </header>
         <router-view :class="{ dark: store.dark }"></router-view> 
-        <h2 id="Test">TEST</h2>
+
     </body>
 </html>
