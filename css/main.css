@@ -104,3 +104,9 @@ input[type="checkbox"] {
     width: 50px
 }
 
+#Sidebar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
