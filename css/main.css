@@ -102,10 +102,17 @@ input[type="checkbox"] {
     height: 50px;
 
     width: 50px
+
+    position: absolute;
+
+    top: 20px;
+    left:50px;
+    
+    
 }
 
 #Sidebar {
-    
+    position: relative;
 }
 
 
