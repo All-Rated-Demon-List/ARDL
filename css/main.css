@@ -109,5 +109,5 @@ input[type="checkbox"] {
     align-items: center;
     justify-content: center;
     height: 100%;
-    opacity: 0.5;
+    background-color: red;
 }
