@@ -103,8 +103,6 @@ input[type="checkbox"] {
 
     width: 50px
 
-    position: absolute;
-
     
     
 }
@@ -112,8 +110,8 @@ input[type="checkbox"] {
 #Sidebar {
     position: relative;
     
-    top: 20px;
-    left:50px;
+    top: 200px;
+    left:500px;
 }
 
 
